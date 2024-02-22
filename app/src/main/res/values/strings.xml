@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Retrofit</string>
+    <string name="capital">Capital</string>
+    <string name="country">Country</string>
+</resources>
