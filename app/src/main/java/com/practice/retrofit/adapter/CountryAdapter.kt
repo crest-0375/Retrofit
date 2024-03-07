@@ -1,11 +1,11 @@
-package com.practice.retrofit.adapter
+package com.practice.newsapp.adapter
 
 import android.content.Context
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
 import com.practice.retrofit.databinding.ItemCountryBinding
-import com.practice.retrofit.adapter.CountryAdapter.ViewHolder
+import com.practice.newsapp.adapter.CountryAdapter.ViewHolder
 import com.practice.retrofit.models.Country
 import com.practice.retrofit.util.loadImage
 
